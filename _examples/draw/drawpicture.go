@@ -7,7 +7,7 @@ import (
 	"time"
 	"unsafe"
 
-	"launchpad.net/gommap"
+	"github.com/tysonmote/gommap"
 
 	_ "image/jpeg"
 
