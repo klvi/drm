@@ -9,7 +9,7 @@ import (
 	"time"
 	"unsafe"
 
-	"launchpad.net/gommap"
+	"github.com/tysonmote/gommap"
 
 	"github.com/NeowayLabs/drm"
 	"github.com/NeowayLabs/drm/mode"
